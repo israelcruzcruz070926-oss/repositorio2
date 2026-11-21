@@ -1,6 +1,6 @@
 /*Cruz Cruz Israel
 Practica 7
-Programa1.c*/
+Programa5.c*/
 #include <stdio.h>
 int main()
 {
